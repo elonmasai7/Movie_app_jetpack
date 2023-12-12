@@ -1,0 +1,438 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/elon/.gradle/caches/transforms-3/e94c2634886b7c987eaa213eb8ede088/transformed/core-12.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/elon/.gradle/caches/transforms-3/cb8197dc2131f1ea828e40c1633e3864/transformed/material3-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0-alpha01] /home/elon/.gradle/caches/transforms-3/f1c7e3773cf6370c7e4f5e1e56158a33/transformed/hilt-navigation-compose-1.1.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.hilt:hilt-navigation:1.1.0-alpha01] /home/elon/.gradle/caches/transforms-3/e8d34603afd733d1fd701e5a844c41df/transformed/hilt-navigation-1.1.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.48] /home/elon/.gradle/caches/transforms-3/b496acd15b8e1eea381101bfffe0a33d/transformed/hilt-android-2.48/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.5.1] /home/elon/.gradle/caches/transforms-3/0270914f7f9bd663d29e625e6c1bb008/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /home/elon/.gradle/caches/transforms-3/fd5dddc72ec940fb9c629ad2854d495a/transformed/navigation-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/elon/.gradle/caches/transforms-3/7fd1c40a7314fddafbc632926a432089/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-common-android:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/0e4d0bb94d8d7099104493b4184d369f/transformed/paging-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.paging:paging-compose-android:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/d26db718d53938a202a8f8ef61ed82a9/transformed/paging-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.paging:paging-runtime-ktx:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/11904e298618a2c19bb1b48dc6e6361d/transformed/paging-runtime-ktx-3.3.0-alpha02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.paging:paging-runtime:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/80996794bcd7db17c663b76c6a315d77/transformed/paging-runtime-3.3.0-alpha02/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose:2.2.2] /home/elon/.gradle/caches/transforms-3/fce32a91ac738a1e6ce3aa360bdeddf2/transformed/coil-compose-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose-base:2.2.2] /home/elon/.gradle/caches/transforms-3/3ab07068d5989b06f1c997bf1bf4b3c8/transformed/coil-compose-base-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/b73bc12848efe619f8be40a276f58143/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/4fa1522d622caf03692283f705fbe55b/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/a13f21409e59f6f72c6fa8d78031d8bb/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/f30dbbbc3016685e399ab41294427c7c/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/008785829a2c7179a3d8e15dc92a7fa7/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/00271d51e0cc2522a3fc01956869a656/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/877b2780357a0e6b5a29da25c402b55b/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/215bbff65bad378388598075156fdc5c/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/94a0c85f870841a2993f93b848de1ca9/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/86e808e205ed895902c05c9894947b1a/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1782b63099c24a273096ed4e5c01fb08/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material:1.4.0] /home/elon/.gradle/caches/transforms-3/e823022c30e9333fe845b647fe5bc10f/transformed/material-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/elon/.gradle/caches/transforms-3/fa26c1b56c2425365f6cff2f6b4e4882/transformed/material-icons-core-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/elon/.gradle/caches/transforms-3/d816072f410fd2eddfcbbd9fea1f5ac9/transformed/material-ripple-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/0d56b70d5855c807be8ac3b15ff946e3/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/e011b9d8e1e3fbb10962777dae262566/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/a77680ec172a39201908fe77606dd06c/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/elon/.gradle/caches/transforms-3/4f660fa81c5eae260d52f3220081e20e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/elon/.gradle/caches/transforms-3/d31fe9c62974edc47afe17666db9a475/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/elon/.gradle/caches/transforms-3/b29100eb21a760f08a3cbe433a21de66/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/elon/.gradle/caches/transforms-3/e4f1a737f4c043f074003b55480fa2c8/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/elon/.gradle/caches/transforms-3/09c7f6f7cdd06c415883c6af299713ea/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/elon/.gradle/caches/transforms-3/abcd48a88731458567798b799128afcb/transformed/navigation-common-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/8f7444c7e0276e376ea57facb03c596e/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/elon/.gradle/caches/transforms-3/cefd8b1a3eb754a0e8a5152bd94e4456/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/elon/.gradle/caches/transforms-3/8ac2d7fece52e42a43e559bb5d80a3de/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/elon/.gradle/caches/transforms-3/05f3d6bcfcacbe847f9f46429a9774e9/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /home/elon/.gradle/caches/transforms-3/1270d92f6d99e8a40f61c9936bce8896/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.25.1] /home/elon/.gradle/caches/transforms-3/9d0dd2e5e0afe65decad8db787812c2e/transformed/accompanist-drawablepainter-0.25.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/9202916e94fef3c54bb15335f59b2824/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1ff3b2c8cf65cfde326179408764e1ec/transformed/ui-test-manifest-1.5.0-beta03/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.7.2] /home/elon/.gradle/caches/transforms-3/72328cb748096f4b4165f6de2f902f71/transformed/activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/elon/.gradle/caches/transforms-3/4949d37d325c4d8fa6a97f3aca9c394c/transformed/activity-ktx-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/elon/.gradle/caches/transforms-3/a11301d5dbdf562da4d3c1161d7d0282/transformed/activity-compose-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/elon/.gradle/caches/transforms-3/68dd20400b66d524d8d317b6b8ba01f2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt:coil-svg:2.2.2] /home/elon/.gradle/caches/transforms-3/b1640c596507a4076888f4e55149d329/transformed/coil-svg-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil:2.2.2] /home/elon/.gradle/caches/transforms-3/89245afc708f964c3748354deacf6e1c/transformed/coil-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.2.2] /home/elon/.gradle/caches/transforms-3/07856a30e2d7459b59fb5a46ccf6e89b/transformed/coil-base-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/elon/.gradle/caches/transforms-3/5e0c151f142ce503d12d259863f34586/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/elon/.gradle/caches/transforms-3/df1019d1b0baf1cee0c47890d907879c/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/elon/.gradle/caches/transforms-3/3d79146c53fa5cb09576bf6885b27abc/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/elon/.gradle/caches/transforms-3/5cf82572e82f09e07e8bd7829d14bc70/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/elon/.gradle/caches/transforms-3/8c02fbeed5a1c288fa48417b42687dc6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/elon/.gradle/caches/transforms-3/acdc3807b35e51920c75989c045e7753/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/elon/.gradle/caches/transforms-3/624457a72812c6fe57b5a20b766d545a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/a12693ae84e356627040625b6e85a033/transformed/core-ktx-1.11.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/elon/.gradle/caches/transforms-3/d244f6b7e40d4fc7bd3f6af564ba12be/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/elon/.gradle/caches/transforms-3/9e2d79db8330575a4e62b351ac7e7421/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/2e12ec4fdeda885d057ebd5f428847e4/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/9b6267c7ebd0cc3f54fb73b4c3c618fd/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/c6d091c477bfa46c82901f5a0ba97b2b/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/elon/.gradle/caches/transforms-3/3650ea235cd081635549d3a55501f4ab/transformed/timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/elon/.gradle/caches/transforms-3/187aab019b6bf4dcf8202988093312c6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/elon/.gradle/caches/transforms-3/935d5ceea15fff21924d1b579696c4e7/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/elon/.gradle/caches/transforms-3/7e4c5ae9f9b7d9f916f3855fe04725d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/elon/.gradle/caches/transforms-3/346ac4d26489663fbdc0d28f2cd820e4/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/elon/.gradle/caches/transforms-3/980eab864abdf7b5ff0c403047c985b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/elon/.gradle/caches/transforms-3/7572d43de0afec937c9d73025668285c/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/elon/.gradle/caches/transforms-3/5154323ec47d738ea251fb9ea5f24a4b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /home/elon/.gradle/caches/transforms-3/60c8df8d24984f97d6d5869bec426471/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:16:1-19:12
+MERGED from [com.caverock:androidsvg-aar:1.4] /home/elon/.gradle/caches/transforms-3/c5e4405d56aef9c17675b129b79851e4/transformed/androidsvg-aar-1.4/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/elon/.gradle/caches/transforms-3/e94c2634886b7c987eaa213eb8ede088/transformed/core-12.1.0/AndroidManifest.xml:7:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/elon/.gradle/caches/transforms-3/e94c2634886b7c987eaa213eb8ede088/transformed/core-12.1.0/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:7:5-29:19
+INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1782b63099c24a273096ed4e5c01fb08/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1782b63099c24a273096ed4e5c01fb08/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1ff3b2c8cf65cfde326179408764e1ec/transformed/ui-test-manifest-1.5.0-beta03/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1ff3b2c8cf65cfde326179408764e1ec/transformed/ui-test-manifest-1.5.0-beta03/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:28:5-89
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/elon/.gradle/caches/transforms-3/3650ea235cd081635549d3a55501f4ab/transformed/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/elon/.gradle/caches/transforms-3/3650ea235cd081635549d3a55501f4ab/transformed/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/elon/.gradle/caches/transforms-3/7e4c5ae9f9b7d9f916f3855fe04725d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/elon/.gradle/caches/transforms-3/7e4c5ae9f9b7d9f916f3855fe04725d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/elon/.gradle/caches/transforms-3/980eab864abdf7b5ff0c403047c985b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/elon/.gradle/caches/transforms-3/980eab864abdf7b5ff0c403047c985b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:16:9-55
+	android:dataExtractionRules
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:8:9-36
+activity#com.rizz.mandiri.assignment.MainActivity
+ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml
+INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/elon/.gradle/caches/transforms-3/e94c2634886b7c987eaa213eb8ede088/transformed/core-12.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/elon/.gradle/caches/transforms-3/e94c2634886b7c987eaa213eb8ede088/transformed/core-12.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/elon/.gradle/caches/transforms-3/cb8197dc2131f1ea828e40c1633e3864/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/elon/.gradle/caches/transforms-3/cb8197dc2131f1ea828e40c1633e3864/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0-alpha01] /home/elon/.gradle/caches/transforms-3/f1c7e3773cf6370c7e4f5e1e56158a33/transformed/hilt-navigation-compose-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0-alpha01] /home/elon/.gradle/caches/transforms-3/f1c7e3773cf6370c7e4f5e1e56158a33/transformed/hilt-navigation-compose-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0-alpha01] /home/elon/.gradle/caches/transforms-3/e8d34603afd733d1fd701e5a844c41df/transformed/hilt-navigation-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0-alpha01] /home/elon/.gradle/caches/transforms-3/e8d34603afd733d1fd701e5a844c41df/transformed/hilt-navigation-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.48] /home/elon/.gradle/caches/transforms-3/b496acd15b8e1eea381101bfffe0a33d/transformed/hilt-android-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.48] /home/elon/.gradle/caches/transforms-3/b496acd15b8e1eea381101bfffe0a33d/transformed/hilt-android-2.48/AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.5.1] /home/elon/.gradle/caches/transforms-3/0270914f7f9bd663d29e625e6c1bb008/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /home/elon/.gradle/caches/transforms-3/0270914f7f9bd663d29e625e6c1bb008/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /home/elon/.gradle/caches/transforms-3/fd5dddc72ec940fb9c629ad2854d495a/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /home/elon/.gradle/caches/transforms-3/fd5dddc72ec940fb9c629ad2854d495a/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/elon/.gradle/caches/transforms-3/7fd1c40a7314fddafbc632926a432089/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/elon/.gradle/caches/transforms-3/7fd1c40a7314fddafbc632926a432089/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-common-android:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/0e4d0bb94d8d7099104493b4184d369f/transformed/paging-common-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-common-android:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/0e4d0bb94d8d7099104493b4184d369f/transformed/paging-common-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-compose-android:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/d26db718d53938a202a8f8ef61ed82a9/transformed/paging-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-compose-android:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/d26db718d53938a202a8f8ef61ed82a9/transformed/paging-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/11904e298618a2c19bb1b48dc6e6361d/transformed/paging-runtime-ktx-3.3.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/11904e298618a2c19bb1b48dc6e6361d/transformed/paging-runtime-ktx-3.3.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/80996794bcd7db17c663b76c6a315d77/transformed/paging-runtime-3.3.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime:3.3.0-alpha02] /home/elon/.gradle/caches/transforms-3/80996794bcd7db17c663b76c6a315d77/transformed/paging-runtime-3.3.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.2.2] /home/elon/.gradle/caches/transforms-3/fce32a91ac738a1e6ce3aa360bdeddf2/transformed/coil-compose-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.2.2] /home/elon/.gradle/caches/transforms-3/fce32a91ac738a1e6ce3aa360bdeddf2/transformed/coil-compose-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.2.2] /home/elon/.gradle/caches/transforms-3/3ab07068d5989b06f1c997bf1bf4b3c8/transformed/coil-compose-base-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.2.2] /home/elon/.gradle/caches/transforms-3/3ab07068d5989b06f1c997bf1bf4b3c8/transformed/coil-compose-base-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/b73bc12848efe619f8be40a276f58143/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/b73bc12848efe619f8be40a276f58143/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/4fa1522d622caf03692283f705fbe55b/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/4fa1522d622caf03692283f705fbe55b/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/a13f21409e59f6f72c6fa8d78031d8bb/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/a13f21409e59f6f72c6fa8d78031d8bb/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/f30dbbbc3016685e399ab41294427c7c/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/f30dbbbc3016685e399ab41294427c7c/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/008785829a2c7179a3d8e15dc92a7fa7/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/008785829a2c7179a3d8e15dc92a7fa7/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/00271d51e0cc2522a3fc01956869a656/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/00271d51e0cc2522a3fc01956869a656/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/877b2780357a0e6b5a29da25c402b55b/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/877b2780357a0e6b5a29da25c402b55b/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/215bbff65bad378388598075156fdc5c/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/215bbff65bad378388598075156fdc5c/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/94a0c85f870841a2993f93b848de1ca9/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/94a0c85f870841a2993f93b848de1ca9/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/86e808e205ed895902c05c9894947b1a/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/86e808e205ed895902c05c9894947b1a/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1782b63099c24a273096ed4e5c01fb08/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1782b63099c24a273096ed4e5c01fb08/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] /home/elon/.gradle/caches/transforms-3/e823022c30e9333fe845b647fe5bc10f/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] /home/elon/.gradle/caches/transforms-3/e823022c30e9333fe845b647fe5bc10f/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/elon/.gradle/caches/transforms-3/fa26c1b56c2425365f6cff2f6b4e4882/transformed/material-icons-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/elon/.gradle/caches/transforms-3/fa26c1b56c2425365f6cff2f6b4e4882/transformed/material-icons-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/elon/.gradle/caches/transforms-3/d816072f410fd2eddfcbbd9fea1f5ac9/transformed/material-ripple-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/elon/.gradle/caches/transforms-3/d816072f410fd2eddfcbbd9fea1f5ac9/transformed/material-ripple-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/0d56b70d5855c807be8ac3b15ff946e3/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/0d56b70d5855c807be8ac3b15ff946e3/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/e011b9d8e1e3fbb10962777dae262566/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/e011b9d8e1e3fbb10962777dae262566/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/a77680ec172a39201908fe77606dd06c/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/a77680ec172a39201908fe77606dd06c/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/elon/.gradle/caches/transforms-3/4f660fa81c5eae260d52f3220081e20e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/elon/.gradle/caches/transforms-3/4f660fa81c5eae260d52f3220081e20e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/elon/.gradle/caches/transforms-3/d31fe9c62974edc47afe17666db9a475/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/elon/.gradle/caches/transforms-3/d31fe9c62974edc47afe17666db9a475/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/elon/.gradle/caches/transforms-3/b29100eb21a760f08a3cbe433a21de66/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/elon/.gradle/caches/transforms-3/b29100eb21a760f08a3cbe433a21de66/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/elon/.gradle/caches/transforms-3/e4f1a737f4c043f074003b55480fa2c8/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/elon/.gradle/caches/transforms-3/e4f1a737f4c043f074003b55480fa2c8/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/elon/.gradle/caches/transforms-3/09c7f6f7cdd06c415883c6af299713ea/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/elon/.gradle/caches/transforms-3/09c7f6f7cdd06c415883c6af299713ea/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/elon/.gradle/caches/transforms-3/abcd48a88731458567798b799128afcb/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/elon/.gradle/caches/transforms-3/abcd48a88731458567798b799128afcb/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/8f7444c7e0276e376ea57facb03c596e/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/8f7444c7e0276e376ea57facb03c596e/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/elon/.gradle/caches/transforms-3/cefd8b1a3eb754a0e8a5152bd94e4456/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/elon/.gradle/caches/transforms-3/cefd8b1a3eb754a0e8a5152bd94e4456/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/elon/.gradle/caches/transforms-3/8ac2d7fece52e42a43e559bb5d80a3de/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/elon/.gradle/caches/transforms-3/8ac2d7fece52e42a43e559bb5d80a3de/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/elon/.gradle/caches/transforms-3/05f3d6bcfcacbe847f9f46429a9774e9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/elon/.gradle/caches/transforms-3/05f3d6bcfcacbe847f9f46429a9774e9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /home/elon/.gradle/caches/transforms-3/1270d92f6d99e8a40f61c9936bce8896/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /home/elon/.gradle/caches/transforms-3/1270d92f6d99e8a40f61c9936bce8896/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.25.1] /home/elon/.gradle/caches/transforms-3/9d0dd2e5e0afe65decad8db787812c2e/transformed/accompanist-drawablepainter-0.25.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.25.1] /home/elon/.gradle/caches/transforms-3/9d0dd2e5e0afe65decad8db787812c2e/transformed/accompanist-drawablepainter-0.25.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/9202916e94fef3c54bb15335f59b2824/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/9202916e94fef3c54bb15335f59b2824/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1ff3b2c8cf65cfde326179408764e1ec/transformed/ui-test-manifest-1.5.0-beta03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1ff3b2c8cf65cfde326179408764e1ec/transformed/ui-test-manifest-1.5.0-beta03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /home/elon/.gradle/caches/transforms-3/72328cb748096f4b4165f6de2f902f71/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /home/elon/.gradle/caches/transforms-3/72328cb748096f4b4165f6de2f902f71/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/elon/.gradle/caches/transforms-3/4949d37d325c4d8fa6a97f3aca9c394c/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/elon/.gradle/caches/transforms-3/4949d37d325c4d8fa6a97f3aca9c394c/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/elon/.gradle/caches/transforms-3/a11301d5dbdf562da4d3c1161d7d0282/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/elon/.gradle/caches/transforms-3/a11301d5dbdf562da4d3c1161d7d0282/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/elon/.gradle/caches/transforms-3/68dd20400b66d524d8d317b6b8ba01f2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/elon/.gradle/caches/transforms-3/68dd20400b66d524d8d317b6b8ba01f2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt:coil-svg:2.2.2] /home/elon/.gradle/caches/transforms-3/b1640c596507a4076888f4e55149d329/transformed/coil-svg-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-svg:2.2.2] /home/elon/.gradle/caches/transforms-3/b1640c596507a4076888f4e55149d329/transformed/coil-svg-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.2.2] /home/elon/.gradle/caches/transforms-3/89245afc708f964c3748354deacf6e1c/transformed/coil-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.2.2] /home/elon/.gradle/caches/transforms-3/89245afc708f964c3748354deacf6e1c/transformed/coil-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.2.2] /home/elon/.gradle/caches/transforms-3/07856a30e2d7459b59fb5a46ccf6e89b/transformed/coil-base-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.2.2] /home/elon/.gradle/caches/transforms-3/07856a30e2d7459b59fb5a46ccf6e89b/transformed/coil-base-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/elon/.gradle/caches/transforms-3/5e0c151f142ce503d12d259863f34586/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/elon/.gradle/caches/transforms-3/5e0c151f142ce503d12d259863f34586/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/elon/.gradle/caches/transforms-3/df1019d1b0baf1cee0c47890d907879c/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/elon/.gradle/caches/transforms-3/df1019d1b0baf1cee0c47890d907879c/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/elon/.gradle/caches/transforms-3/3d79146c53fa5cb09576bf6885b27abc/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/elon/.gradle/caches/transforms-3/3d79146c53fa5cb09576bf6885b27abc/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/elon/.gradle/caches/transforms-3/5cf82572e82f09e07e8bd7829d14bc70/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/elon/.gradle/caches/transforms-3/5cf82572e82f09e07e8bd7829d14bc70/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/elon/.gradle/caches/transforms-3/8c02fbeed5a1c288fa48417b42687dc6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/elon/.gradle/caches/transforms-3/8c02fbeed5a1c288fa48417b42687dc6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/elon/.gradle/caches/transforms-3/acdc3807b35e51920c75989c045e7753/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/elon/.gradle/caches/transforms-3/acdc3807b35e51920c75989c045e7753/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/elon/.gradle/caches/transforms-3/624457a72812c6fe57b5a20b766d545a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/elon/.gradle/caches/transforms-3/624457a72812c6fe57b5a20b766d545a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/a12693ae84e356627040625b6e85a033/transformed/core-ktx-1.11.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/a12693ae84e356627040625b6e85a033/transformed/core-ktx-1.11.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/elon/.gradle/caches/transforms-3/d244f6b7e40d4fc7bd3f6af564ba12be/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/elon/.gradle/caches/transforms-3/d244f6b7e40d4fc7bd3f6af564ba12be/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/elon/.gradle/caches/transforms-3/9e2d79db8330575a4e62b351ac7e7421/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/elon/.gradle/caches/transforms-3/9e2d79db8330575a4e62b351ac7e7421/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/2e12ec4fdeda885d057ebd5f428847e4/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/elon/.gradle/caches/transforms-3/2e12ec4fdeda885d057ebd5f428847e4/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/9b6267c7ebd0cc3f54fb73b4c3c618fd/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/9b6267c7ebd0cc3f54fb73b4c3c618fd/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/c6d091c477bfa46c82901f5a0ba97b2b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/c6d091c477bfa46c82901f5a0ba97b2b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/elon/.gradle/caches/transforms-3/3650ea235cd081635549d3a55501f4ab/transformed/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/elon/.gradle/caches/transforms-3/3650ea235cd081635549d3a55501f4ab/transformed/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/elon/.gradle/caches/transforms-3/187aab019b6bf4dcf8202988093312c6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/elon/.gradle/caches/transforms-3/187aab019b6bf4dcf8202988093312c6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/elon/.gradle/caches/transforms-3/935d5ceea15fff21924d1b579696c4e7/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/elon/.gradle/caches/transforms-3/935d5ceea15fff21924d1b579696c4e7/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/elon/.gradle/caches/transforms-3/7e4c5ae9f9b7d9f916f3855fe04725d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/elon/.gradle/caches/transforms-3/7e4c5ae9f9b7d9f916f3855fe04725d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/elon/.gradle/caches/transforms-3/346ac4d26489663fbdc0d28f2cd820e4/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/elon/.gradle/caches/transforms-3/346ac4d26489663fbdc0d28f2cd820e4/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/elon/.gradle/caches/transforms-3/980eab864abdf7b5ff0c403047c985b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/elon/.gradle/caches/transforms-3/980eab864abdf7b5ff0c403047c985b4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/elon/.gradle/caches/transforms-3/7572d43de0afec937c9d73025668285c/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/elon/.gradle/caches/transforms-3/7572d43de0afec937c9d73025668285c/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/elon/.gradle/caches/transforms-3/5154323ec47d738ea251fb9ea5f24a4b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/elon/.gradle/caches/transforms-3/5154323ec47d738ea251fb9ea5f24a4b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /home/elon/.gradle/caches/transforms-3/60c8df8d24984f97d6d5869bec426471/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /home/elon/.gradle/caches/transforms-3/60c8df8d24984f97d6d5869bec426471/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.caverock:androidsvg-aar:1.4] /home/elon/.gradle/caches/transforms-3/c5e4405d56aef9c17675b129b79851e4/transformed/androidsvg-aar-1.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.caverock:androidsvg-aar:1.4] /home/elon/.gradle/caches/transforms-3/c5e4405d56aef9c17675b129b79851e4/transformed/androidsvg-aar-1.4/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/elon/Downloads/movie-app-jetpack-compose-main/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/elon/.gradle/caches/transforms-3/e94c2634886b7c987eaa213eb8ede088/transformed/core-12.1.0/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/elon/.gradle/caches/transforms-3/e94c2634886b7c987eaa213eb8ede088/transformed/core-12.1.0/AndroidManifest.xml:8:22-76
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1782b63099c24a273096ed4e5c01fb08/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1782b63099c24a273096ed4e5c01fb08/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1782b63099c24a273096ed4e5c01fb08/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/elon/.gradle/caches/transforms-3/7e4c5ae9f9b7d9f916f3855fe04725d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/elon/.gradle/caches/transforms-3/7e4c5ae9f9b7d9f916f3855fe04725d5/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta04] /home/elon/.gradle/caches/transforms-3/cd97882b555335ad8637ab3ca4c14a19/transformed/emoji2-1.4.0-beta04/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/elon/.gradle/caches/transforms-3/c5809de9425aa47fad236c07d9046a07/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1ff3b2c8cf65cfde326179408764e1ec/transformed/ui-test-manifest-1.5.0-beta03/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1ff3b2c8cf65cfde326179408764e1ec/transformed/ui-test-manifest-1.5.0-beta03/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0-beta03] /home/elon/.gradle/caches/transforms-3/1ff3b2c8cf65cfde326179408764e1ec/transformed/ui-test-manifest-1.5.0-beta03/AndroidManifest.xml:24:13-63
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:23:9-81
+permission#com.rizz.mandiri.assignment.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:26:22-94
+uses-permission#com.rizz.mandiri.assignment.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.11.0-beta02] /home/elon/.gradle/caches/transforms-3/c9a3b031957afdd3d228231b32193bfd/transformed/core-1.11.0-beta02/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/elon/.gradle/caches/transforms-3/46348715d2c5394a23cf099c0e7dfd88/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
